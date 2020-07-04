@@ -62,9 +62,7 @@ user_groups:
 - Visitors
 ---
 
-K. Vijaya Bhat
-
-Hands on experience in championing business process improvements within multiple portfolios in the Digital Experience and FRS space and identifying the most value-added solution, all while delivering service beyond expectations. Demonstrating Leadership by mentoring, training and recruiting technical and creative resources in a digital production environment.Spearheaded Product Development. Applied and championed agile software development methodologies for Axiom, Personalization to ensure faster time to market. Implemented and drove devOps engineering practices.
+Vijaya has hands on experience in championing business process improvements within multiple portfolios in the Digital Experience and FRS space and identifying the most value-added solution, all while delivering service beyond expectations. Demonstrating Leadership by mentoring, training and recruiting technical and creative resources in a digital production environment.Spearheaded Product Development. Applied and championed agile software development methodologies for various products to ensure faster time to market. Implemented and drove devOps engineering practices.
 
 
 
