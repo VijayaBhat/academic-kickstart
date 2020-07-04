@@ -62,6 +62,14 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+K. Vijaya Bhat 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+	Hands on experience in championing business process improvements within multiple portfolios in the Digital Experience and FRS space and identifying the most value-added solution, all while delivering service beyond expectations for Axiom, Personalization and Connect products/experiences.
+	Determining Strategies and converting them into action plans for products like Axiom, by maturing and growing it into one single tool for internal TGS Agents instead of maintaining multiple products and tools. 
+	Demonstrating Leadership by mentoring, training and recruiting technical and creative resources in a digital production environment. Ensuring right mix of skilled resources at various levels to drive changes across cross functional teams and collaborate as a focused unit to achieve business goals within the Know Me/ Resolve my Issue Experience. Developed talent in the team with excellent career management and managed poor performers as well. Resulted in building highly motivated and high-performance teams. 
+	Spearheaded Product Development – Axiom, an application used by Target Guest Services agents across the globe, was developed from scratch by analyzing needs, identifying solutions, executing pre-project work, developing processes and procedures, defining and piloting projects, implementing solutions and managing budgets and deadlines – all ensuring project consistency quality with an expertise in creative development, technology and cross teams. Ability to align and effective prioritize multiple critical projects to align results with business objectives.
+	Applied and championed agile software development methodologies for Axiom, Personalization to ensure faster time to market.
+	 Implemented devops into engineering practices within Personalization and Axiom by ensuring team adapts to newer technologies and as an end result there is faster delivery of the product.
+	Reduced production incidents by 40% by implementing multiple solutions that brought about good results within Axiom.
+	Diversity Passion – Mentor at Technovation program, a program for encouraging young energetic high school girls into the field of technology.
+
