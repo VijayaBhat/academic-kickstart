@@ -48,9 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Vijaya
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+ # - icon: cv
+ #  icon_pack: ai
+ #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kvijayabhat@gmail.com"
