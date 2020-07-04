@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: K. Vijaya Bhat
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Engineering MAanger
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Target
+  url: "www.target.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My experience includes providing enabling technology, Talent Management,Delivery , Vendor Management, D & I
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- UI development
+- Services
+- Diversity/Inclusivity
 
 education:
   courses:
